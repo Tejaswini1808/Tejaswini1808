@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=280&section=header&text=Tejaswini&fontColor=ffffff&fontSize=72&fontAlignY=40&desc=Distributed%20Systems%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Fintech%20%E2%80%A2%20Backend%20Engineering&descAlignY=64&descSize=17&animation=twinkling&stroke=00f5d4&strokeWidth=1" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,35:4F46E5,70:7C3AED,100:A855F7&height=280&section=header&text=Tejaswini%20Mamidipaka&fontColor=ffffff&fontSize=60&fontAlignY=40&desc=Computer%20Scientist%20%40%20Adobe%20%E2%80%A2%20Enterprise%20AI%20%E2%80%A2%20LLMs%20%E2%80%A2%20Distributed%20Systems&descAlignY=64&descSize=18&animation=fadeIn&stroke=ffffff&strokeWidth=1.2" width="100%" />
 
 <br/>
 
@@ -10,7 +10,10 @@
 <br/>
 
 <a href="https://github.com/Tejaswini1808">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00F5D4&center=true&vCenter=true&repeat=true&width=750&height=60&lines=%F0%9F%9A%80+Backend+Engineer+%7C+Distributed+Systems;%F0%9F%A4%96+LLM+Fine-Tuning+%7C+RAG+%7C+AI%2FML+Pipelines;%E2%9A%A1+Go+%7C+Python+%7C+Microservices+at+Scale;%F0%9F%94%A5+Event-Driven+Architectures+%7C+Kafka+%7C+Redis;%F0%9F%8F%A6+Fintech+%7C+HFT+%7C+ML-Integrated+Backends" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1000&color=6366F1&center=true&vCenter=true&repeat=true&width=950&height=60&lines=Computer+Scientist+%40+Adobe;Building+Production-Grade+Enterprise+AI+Systems;Large+Language+Models+%7C+RAG+%7C+Multi-Agent+Systems;Distributed+Systems+%7C+Spring+Boot+%7C+Kafka;Cloud-Native+Platforms+for+Millions+of+Enterprise+Events"
+    alt="Typing SVG"
+  />
 </a>
 
 <br/><br/>
@@ -120,87 +123,79 @@ $ currently_building
 
 ---
 
-## 🛠️ Technical Arsenal
+## ⚙️ Engineering Stack
 
 <table border="0" cellpadding="10" cellspacing="5" width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>🧠 Programming Languages</h3>
-      <img src="https://img.shields.io/badge/C-15151A?style=flat&logo=c&logoColor=1572B6" />
-      <img src="https://img.shields.io/badge/C++-15151A?style=flat&logo=c%2B%2B&logoColor=00599C" />
-      <img src="https://img.shields.io/badge/Go-15151A?style=flat&logo=go&logoColor=00ADD8" />
+      <img src="https://img.shields.io/badge/Java-15151A?style=flat&logo=openjdk&logoColor=ED8B00" />
       <img src="https://img.shields.io/badge/Python-15151A?style=flat&logo=python&logoColor=3776AB" />
       <img src="https://img.shields.io/badge/JavaScript-15151A?style=flat&logo=javascript&logoColor=F7DF1E" />
-      <img src="https://img.shields.io/badge/TypeScript-15151A?style=flat&logo=typescript&logoColor=3178C6" />
-      <img src="https://img.shields.io/badge/SQL-15151A?style=flat&logo=mysql&logoColor=4479A1" />
-      <img src="https://img.shields.io/badge/HTML-15151A?style=flat&logo=html5&logoColor=E34F26" />
-      <img src="https://img.shields.io/badge/CSS-15151A?style=flat&logo=css3&logoColor=1572B6" />
+      <img src="https://img.shields.io/badge/Groovy-15151A?style=flat&logo=apachegroovy&logoColor=4298B8" />
     </td>
     <td width="50%" valign="top">
-      <h3>🧩 Frameworks & Libraries</h3>
+      <h3>🧩 Backend Frameworks</h3>
+      <img src="https://img.shields.io/badge/Spring_Boot-15151A?style=flat&logo=springboot&logoColor=6DB33F" />
       <img src="https://img.shields.io/badge/Node.js-15151A?style=flat&logo=node.js&logoColor=339933" />
-      <img src="https://img.shields.io/badge/Express.js-15151A?style=flat&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/GraphQL-15151A?style=flat&logo=graphql&logoColor=E10098" />
-      <img src="https://img.shields.io/badge/Flask-15151A?style=flat&logo=flask&logoColor=white" />
-      <img src="https://img.shields.io/badge/Django-15151A?style=flat&logo=django&logoColor=092E20" />
       <img src="https://img.shields.io/badge/FastAPI-15151A?style=flat&logo=fastapi&logoColor=009688" />
-      <img src="https://img.shields.io/badge/React.js-15151A?style=flat&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Next.js-15151A?style=flat&logo=next.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Bootstrap-15151A?style=flat&logo=bootstrap&logoColor=7952B3" />
-      <img src="https://img.shields.io/badge/Material_UI-15151A?style=flat&logo=mui&logoColor=007FFF" />
+      <img src="https://img.shields.io/badge/GraphQL-15151A?style=flat&logo=graphql&logoColor=E10098" />
+      <img src="https://img.shields.io/badge/REST_APIs-15151A?style=flat" />
+      <img src="https://img.shields.io/badge/Microservices-15151A?style=flat" />
+      <img src="https://img.shields.io/badge/Event--Driven-15151A?style=flat" />
     </td>
   </tr>
+
   <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 AI & GenAI</h3>
+      <img src="https://img.shields.io/badge/LLMs-15151A?style=flat" />
+      <img src="https://img.shields.io/badge/RAG-15151A?style=flat&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/LangChain-15151A?style=flat&logo=langchain&logoColor=white" />
+      <img src="https://img.shields.io/badge/LangGraph-15151A?style=flat&logo=langchain&logoColor=white" />
+      <img src="https://img.shields.io/badge/Multi--Agent_Systems-15151A?style=flat&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/Prompt_Engineering-15151A?style=flat&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/Embeddings-15151A?style=flat&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/Semantic_Search-15151A?style=flat&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vector_Databases-15151A?style=flat&logo=qdrant&logoColor=DC244C" />
+      <img src="https://img.shields.io/badge/Hugging_Face-15151A?style=flat&logo=huggingface&logoColor=FFD21E" />
+      <img src="https://img.shields.io/badge/LLM_Evaluation-15151A?style=flat&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/AI_Orchestration-15151A?style=flat&logo=openai&logoColor=white" />
+    </td>
     <td width="50%" valign="top">
       <h3>🗄️ Databases & Storage</h3>
       <img src="https://img.shields.io/badge/PostgreSQL-15151A?style=flat&logo=postgresql&logoColor=4169E1" />
-      <img src="https://img.shields.io/badge/MySQL-15151A?style=flat&logo=mysql&logoColor=4479A1" />
       <img src="https://img.shields.io/badge/MongoDB-15151A?style=flat&logo=mongodb&logoColor=47A248" />
+      <img src="https://img.shields.io/badge/Cosmos_DB-15151A?style=flat&logo=microsoftazure&logoColor=0078D4" />
       <img src="https://img.shields.io/badge/Redis-15151A?style=flat&logo=redis&logoColor=DC382D" />
-      <img src="https://img.shields.io/badge/DynamoDB-15151A?style=flat&logo=amazon-dynamodb&logoColor=4053D6" />
-      <img src="https://img.shields.io/badge/Elasticsearch-15151A?style=flat&logo=elasticsearch&logoColor=005571" />
-      <img src="https://img.shields.io/badge/Cassandra-15151A?style=flat&logo=apache-cassandra&logoColor=1287B1" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 AI & Machine Learning</h3>
-      <img src="https://img.shields.io/badge/TensorFlow-15151A?style=flat&logo=tensorflow&logoColor=FF6F00" />
-      <img src="https://img.shields.io/badge/Keras-15151A?style=flat&logo=keras&logoColor=D00000" />
-      <img src="https://img.shields.io/badge/PyTorch-15151A?style=flat&logo=pytorch&logoColor=EE4C2C" />
-      <img src="https://img.shields.io/badge/Scikit--learn-15151A?style=flat&logo=scikit-learn&logoColor=F7931E" />
-      <img src="https://img.shields.io/badge/LangChain-15151A?style=flat&logo=langchain&logoColor=white" />
-      <img src="https://img.shields.io/badge/RAG-15151A?style=flat&logo=openai&logoColor=white" />
-      <img src="https://img.shields.io/badge/TFX-15151A?style=flat&logo=tensorflow&logoColor=FF6F00" />
-      <img src="https://img.shields.io/badge/MLflow-15151A?style=flat&logo=mlflow&logoColor=0194E2" />
-      <img src="https://img.shields.io/badge/LLMs-15151A?style=flat&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/Qdrant-15151A?style=flat&logo=qdrant&logoColor=DC244C" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>☁️ Cloud & DevOps</h3>
-      <img src="https://img.shields.io/badge/AWS-15151A?style=flat&logo=amazonaws&logoColor=FF9900" />
+      <img src="https://img.shields.io/badge/Microsoft_Azure-15151A?style=flat&logo=microsoftazure&logoColor=0078D4" />
+      <img src="https://img.shields.io/badge/Azure_Event_Hub-15151A?style=flat&logo=microsoftazure&logoColor=0078D4" />
       <img src="https://img.shields.io/badge/Docker-15151A?style=flat&logo=docker&logoColor=2496ED" />
       <img src="https://img.shields.io/badge/Kubernetes-15151A?style=flat&logo=kubernetes&logoColor=326CE5" />
       <img src="https://img.shields.io/badge/Terraform-15151A?style=flat&logo=terraform&logoColor=7B42BC" />
-      <img src="https://img.shields.io/badge/CI/CD-15151A?style=flat&logo=github-actions&logoColor=2088FF" />
       <img src="https://img.shields.io/badge/Jenkins-15151A?style=flat&logo=jenkins&logoColor=D24939" />
-      <img src="https://img.shields.io/badge/Prometheus-15151A?style=flat&logo=prometheus&logoColor=E6522C" />
-      <img src="https://img.shields.io/badge/Grafana-15151A?style=flat&logo=grafana&logoColor=F46800" />
-      <img src="https://img.shields.io/badge/Nginx-15151A?style=flat&logo=nginx&logoColor=009639" />
+      <img src="https://img.shields.io/badge/CI/CD-15151A?style=flat&logo=github-actions&logoColor=2088FF" />
     </td>
     <td width="50%" valign="top">
-      <h3>⚙️ Tools & Technologies</h3>
+      <h3>⚙️ Distributed Systems & Security</h3>
+      <img src="https://img.shields.io/badge/Apache_Kafka-15151A?style=flat&logo=apache-kafka&logoColor=231F20" />
       <img src="https://img.shields.io/badge/Git-15151A?style=flat&logo=git&logoColor=F05032" />
       <img src="https://img.shields.io/badge/GitHub-15151A?style=flat&logo=github&logoColor=white" />
-      <img src="https://img.shields.io/badge/RabbitMQ-15151A?style=flat&logo=rabbitmq&logoColor=FF6600" />
-      <img src="https://img.shields.io/badge/Apache_Kafka-15151A?style=flat&logo=apache-kafka&logoColor=231F20" />
-      <img src="https://img.shields.io/badge/Postman-15151A?style=flat&logo=postman&logoColor=FF6C37" />
-      <img src="https://img.shields.io/badge/Swagger-15151A?style=flat&logo=swagger&logoColor=85EA2D" />
-      <img src="https://img.shields.io/badge/Figma-15151A?style=flat&logo=figma&logoColor=F24E1E" />
-      <img src="https://img.shields.io/badge/Adobe_XD-15151A?style=flat&logo=adobexd&logoColor=FF61F6" />
-      <img src="https://img.shields.io/badge/JIRA-15151A?style=flat&logo=jira&logoColor=0052CC" />
+      <img src="https://img.shields.io/badge/OAuth2-15151A?style=flat&logo=auth0&logoColor=EB5424" />
+      <img src="https://img.shields.io/badge/JWT-15151A?style=flat" />
+      <img src="https://img.shields.io/badge/AES--GCM-15151A?style=flat&logo=letsencrypt&logoColor=white" />
+      <img src="https://img.shields.io/badge/RSA-15151A?style=flat&logo=letsencrypt&logoColor=white" />
+      <img src="https://img.shields.io/badge/Crawl4AI-15151A?style=flat&logo=python&logoColor=3776AB" />
     </td>
   </tr>
 </table>
+
 
 <br/>
 
